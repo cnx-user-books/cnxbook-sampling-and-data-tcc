@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sampling and Data: Variation and Critical Evaluation</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65185</md:content-id>
+  <md:title>Sampling and Data: Variation and Critical Evaluation</md:title>
+  <md:abstract>This module discusses statistical variability within data and samples.  Students will be given the opportunity to see this variability in action through participation in an optional classroom exercise. This module also has a section that discusses Critical Evaluation.</md:abstract>
+  <md:uuid>d46805af-1eb9-4cf4-bfa8-63361776433c</md:uuid>
+</metadata>
+
+<content>
+    
+<section id="id-612870340664">
+     <title>Variation in Data</title>
+      <para id="id8219993">Variation is present in any set of data. For example, 16-ounce cans of beverage may contain more or less than 16 ounces of liquid. In one study, eight 16 ounce cans were measured and produced the following amount (in ounces) of beverage:</para>
+      <para id="element-25004"><list id="set-element-984" list-type="labeled-item" display="inline"><item>15.8</item>
+<item>16.1</item>
+<item>15.2</item>
+<item>14.8</item>
+<item>15.8</item>
+<item>15.9</item>
+<item>16.0</item>
+<item>15.5</item></list></para>
+      <para id="id6856137">Measurements of the amount of beverage in a 16-ounce can may vary because different people make the measurements or because the exact amount, 16 ounces of liquid, was not put into the cans. Manufacturers regularly run tests to determine if the amount of beverage in a 16-ounce can falls within the desired range.</para>
+      <para id="id5172174">Be aware that as you take data, your data may vary somewhat from the data someone else is taking for the same purpose. This is completely natural. However, if two or more of you are taking the same data and get very different results, it is time for you and the others to reevaluate your data-taking methods and your accuracy.</para>
+    </section>
+
+<section id="id-215528893517"><title>Variation in Samples</title>
+
+      <para id="id11414550">It was mentioned previously that two or more <term target-id="sample">samples</term> from the same <term target-id="population">population</term>, taken randomly, and having close to the same characteristics of the population are different from each other.  Suppose Doreen and Jung both decide to study the average amount of time students at their college sleep each night.  Doreen and Jung each take samples of 500 students. Doreen uses systematic sampling and Jung uses cluster sampling. Doreen's sample will be different from Jung's sample. Even if Doreen and Jung used the same sampling method, in all likelihood their samples would be different. Neither would be wrong, however. </para><para id="id11414555">Think about what contributes to making Doreen's and Jung's samples different. </para>
+      <para id="id10715475">If Doreen and Jung took larger samples (i.e. the number of data values is increased), their sample results (the average amount of time a student sleeps) might be closer to the actual population average. But still, their samples would be, in all likelihood, different from each other. This <emphasis>variability in samples</emphasis> cannot be stressed enough. </para><section id="id-191351579127">
+        <title>Size of a Sample</title>
+        <para id="id10291271">The size of a sample (often called the number of observations) is important. The examples you have seen in this book so far have been small. Samples of only a few hundred observations, or even smaller, are sufficient for many purposes. In polling, samples that are from 1200 to 1500 observations are considered large enough and good enough if the survey is random and is well done. You will learn why when you study confidence intervals.
+<newline/><newline/>
+Be aware that many large samples are biased.  For example, call-in surveys are invariable biased because people choose to respond or not.</para></section>
+      <section id="id-148866396083">
+        <title>Optional Collaborative Classroom Exercise</title>
+        <exercise id="element-541"><problem id="id1480152">
+		<para id="element-363">Divide into groups of two, three, or four. Your instructor will give each group one 6-sided die. <emphasis>Try this experiment twice.</emphasis> Roll one fair die (6-sided) 20 times. Record the number of ones, twos, threes, fours, fives, and sixes you get below ("frequency" is the number of times a particular face of the die occurs):
+		</para><table id="element-497" summary="This table provides a blank template for recording the results of an experimental trial involving the roll of a die.  The first column contains the values 1 through 6, representing the possible outcomes of a single throw of a die.  The second column is to be used by the student to tally the number of times the die lands on that value during the experiment.">
+
+<title>First Experiment (20 rolls)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+<thead><row><entry>Face on Die</entry><entry>Frequency</entry></row></thead>
+            <tbody>
+
+              <row>
+                <entry>1</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>5</entry>
+
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry/>
+
+              </row>
+            </tbody>
+          
+
+
+</tgroup>
+</table><table id="element-478" summary="A duplicate of the previous table, this table provides a blank template for recording the results of an experimental trial involving the roll of a die.  The first column contains the values 1 through 6, representing the possible outcomes of a single throw of a die.  The second column is to be used by the student to tally the number of times the die lands on that value during the experiment."><title>Second Experiment (20 rolls)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+<thead><row><entry>Face on Die</entry><entry>Frequency</entry></row></thead>
+            <tbody>
+
+              <row>
+                <entry>1</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry/>
+
+              </row>
+              <row>
+                <entry>5</entry>
+
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry/>
+
+              </row>
+            </tbody>
+          
+
+
+</tgroup>
+</table><para id="element-663">Did the two experiments have the same results? Probably not. If you did the experiment a third time, do you expect the results to be identical to the first or second experiment? (Answer yes or no.) Why or why not? </para><para id="element-440">Which experiment had the correct results? They both did. The job of the statistician is to see through the variability and draw appropriate conclusions.</para>
+	</problem></exercise>
+        
+        
+        
+      </section>
+    </section><section id="element-583"><title>Critical Evaluation</title>
+<para id="element-607">We need to critically evaluate the statistical studies we read about and analyze before accepting the results of the study.  Common problems to be aware of include
+
+
+</para><list id="element-17" list-type="bulleted"><item>Problems with Samples:  A sample should be representative of the population.  A sample that is not representative of the population is biased.  Biased samples that are not representative of the population give results that are inaccurate and not valid.</item>
+<item>Self-Selected Samples:  Responses only by people who choose to respond, such as call-in surveys are often unreliable.</item>
+<item>Sample Size Issues: Samples that are too small may be unreliable.  Larger samples are better if possible. In some situations, small samples are unavoidable and can still be used to draw conclusions, even though larger samples are better.  Examples:  Crash testing cars, medical testing for rare conditions.</item>
+<item>Undue influence:  Collecting data or asking questions in a way that influences the response.</item> 
+<item>Non-response or refusal of subject to participate:  The collected responses may no longer be representative of the population.  Often, people with strong positive or negative opinions may answer surveys, which can affect the results.</item>
+<item>Causality:  A relationship between two variables does not mean that one causes the other to occur. They may both be related (correlated) because of their relationship through a different variable.</item>
+<item>Self-Funded or Self-Interest Studies:  A study performed by a person or organization in order to support their claim.  Is the study impartial?   Read the study carefully to evaluate the work.   Do not  automatically assume that the study is good but do not automatically assume the study is bad either.  Evaluate it on its merits and the work done.</item>
+<item>Misleading Use of Data:  Improperly displayed graphs, incomplete data, lack of context.</item>
+<item>Confounding:  When the effects of multiple factors on a response cannot be separated.  Confounding makes it difficult or impossible to draw valid conclusions about the effect of each factor.</item>
+</list></section>
+  </content>
+
+<glossary>
+<definition id="population">
+    <term>Population</term>
+    <meaning id="id1481477">
+ The collection, or set, of all individuals, objects, or measurements whose properties are being studied.
+    </meaning>
+  </definition>
+
+<definition id="sample">
+    <term>Sample</term>
+    <meaning id="id1481499">
+A portion of the population understudy. A sample is representative if it characterizes the population being studied.
+    </meaning>
+  </definition>
+
+
+</glossary>
+</document>

@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sampling and Data: Summary</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65183</md:content-id>
+  <md:title>Sampling and Data: Summary</md:title>
+  <md:abstract>This module provides an outline/review of key concepts related to statistical sampling and data.</md:abstract>
+  <md:uuid>698ae4ab-b7df-4cc0-b8c2-d8552aebfc0c</md:uuid>
+</metadata>
+
+<content>
+
+
+<list id="element-888" list-type="bulleted"><title>Statistics</title><item>Deals with the collection, analysis, interpretation, and presentation of data</item>
+</list>
+
+
+
+
+<list id="element-935" list-type="bulleted"><title>Probability</title><item>Mathematical tool used to study randomness</item>
+</list>
+
+
+
+
+<list id="chaponeterms" list-type="bulleted"><title>Key Terms</title><item>Population</item>
+    <item>Parameter</item>
+    <item>Sample</item>
+    <item>Statistic</item>
+    <item>Variable</item>
+    <item>Data</item>
+</list>
+
+
+
+
+<list id="element-88" list-type="bulleted"><title>Types of Data</title><item>Quantitative Data (a number)
+
+<list id="element-1230" list-type="bulleted"><item>Discrete (You count it.)</item>
+ <item>Continuous (You measure it.)</item>
+</list>
+</item>
+
+<item>Qualitative Data (a category, words)</item>
+</list>
+
+
+
+
+
+
+<list id="element-612" list-type="bulleted"><title>Sampling</title><item><emphasis>With Replacement</emphasis>: A member of the population may be chosen more than once</item>
+
+<item><emphasis>Without Replacement</emphasis>: A member of the population may be chosen only once</item></list>
+
+
+
+
+
+
+<list id="element-999" list-type="bulleted"><title>Random Sampling</title><item>Each member of the population has an equal chance of being selected</item>
+</list>
+
+
+
+
+
+<list id="element-213" list-type="bulleted"><title>Sampling Methods</title><item>Random
+<list id="element-2334" list-type="bulleted">
+
+ <item>Simple random sample</item>
+ <item>Stratified sample</item>
+ <item>Cluster sample</item>
+ <item>Systematic sample</item>
+
+</list>
+</item>
+
+<item>Not Random
+<list id="element-9873" list-type="bulleted">
+<item>Convenience sample</item>
+</list>
+</item>
+</list>
+
+
+
+
+
+
+<note id="id14947376">Samples must be representative of the population from which they come. They must have the same characteristics. However, they may vary but still represent the same population.</note>
+
+
+
+
+
+
+
+
+
+  </content>
+</document>

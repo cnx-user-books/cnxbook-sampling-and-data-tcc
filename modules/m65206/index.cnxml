@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sampling and Data: Statistics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65206</md:content-id>
+  <md:title>Sampling and Data: Statistics</md:title>
+  <md:abstract>This module introduces the concept of statistics, specifically the ability to use statistics to describe data (descriptive statistics) as well as draw conclusions (inferential statistics).  An optional classroom exercise is included.</md:abstract>
+  <md:uuid>a17dd5c3-3b8c-4fd5-b814-e78bc5a30917</md:uuid>
+</metadata>
+
+<content>
+    
+      <para id="id8112751">The science of <term target-id="stat">statistics</term> deals with the collection, analysis, interpretation, and presentation of <term target-id="data">data</term>. We see and use data in our everyday lives. </para>
+      <section id="id-652244882543">
+        <title>Optional Collaborative Classroom Exercise</title>
+        <para id="id7763788">In your classroom, try this exercise. Have class members write down the average time (in hours, to the nearest half-hour) they sleep per night. Your instructor will record the data. Then create a simple graph (called a <emphasis>dot plot</emphasis>) of the data. A dot plot consists of a number line and dots (or points) positioned above the number line. For example, consider the following data:</para>
+        <para id="element-128"><list id="set-element-266" list-type="labeled-item" display="inline"><item>5</item>
+<item>5.5</item>
+<item>6</item>
+<item>6</item>
+<item>6</item>
+<item>6.5</item>
+<item>6.5</item>
+<item>6.5</item>
+<item>6.5</item>
+<item>7</item>
+<item>7</item>
+<item>8</item>
+<item>8</item>
+<item>9</item></list></para><para id="element-534">The dot plot for this data would be as follows:</para><figure id="element-970"><title>Frequency of Average Time (in Hours) Spent Sleeping per Night</title><media id="id44761709" alt="Dot plot with hours of sleep on the X-axis and frequency on Y-axis" longdesc="m16020_DotPlot_description.html"><image src="../../media/m16020_DotPlot.png" mime-type="image/png" print-width="3in"><param name="longdesc" value="m16020_DotPlot_description.html"/></image></media></figure><para id="id10326643">Does your dot plot look the same as or different from the example? Why? If you did the same example in an English class with the same number of students, do you think the results would be the same? Why or why not?</para>
+        <para id="id9336363">Where do your data appear to cluster? How could you interpret the clustering?</para>
+</section>
+        <para id="id9969457">The questions above ask you to analyze and interpret your data. With this example, you have begun your study of statistics.</para>
+        <para id="id6043607">In this course, you will learn how to organize and summarize data. Organizing and summarizing data is called <emphasis>descriptive statistics</emphasis>. Two ways to summarize data are by graphing and by numbers (for example, finding an average). After you have studied probability and probability distributions, you will use formal methods for drawing conclusions from "good" data. The formal methods are called <emphasis>inferential statistics</emphasis>. Statistical inference uses probability to determine how confident we can be that the conclusions are correct.</para><para id="id9131775">Effective interpretation of data (inference) is based on good procedures for producing data and thoughtful examination of the data.  You will encounter what will seem to be too many mathematical formulas for interpreting data.  The goal of statistics is not to perform numerous calculations using the formulas, but to gain an understanding of your data.  The calculations can be done using a calculator or a computer.  The understanding must come from you.  If you can thoroughly grasp the basics of statistics, you can be more confident in the decisions you make in life.</para></content>
+
+
+<glossary>
+<definition id="data">
+    <term>Data</term>
+    <meaning id="id15539900">
+      A set of observations (a set of possible outcomes). Most data can be put into two groups: <emphasis>qualitative</emphasis> (hair color, ethnic groups and other <emphasis>attributes</emphasis> of the population) and <emphasis>quantitative</emphasis> (distance traveled to college, number of children in a family, etc.). Quantitative data can be separated into two subgroups: <emphasis>discrete</emphasis> and <emphasis>continuous</emphasis>. Data is discrete if it is the result of counting (the number of students of a given ethnic group in a class, the number of books on a shelf, etc.).  Data is continuous if it is the result of measuring (distance traveled, weight of luggage, etc.)
+    </meaning>
+  </definition>
+
+
+
+<definition id="stat">
+    <term>Statistic</term>
+    <meaning id="id17366233">
+A numerical characteristic of the sample. A statistic estimates the corresponding population parameter. For example, the average number of full-time students in a 7:30 a.m. class for this term (statistic) is an estimate for the average number of full-time students in any class this term (parameter).
+    </meaning>
+  </definition>
+
+
+</glossary>
+</document>

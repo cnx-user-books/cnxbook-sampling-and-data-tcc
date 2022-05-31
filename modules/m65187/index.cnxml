@@ -1,0 +1,368 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Sampling and Data: Data</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65187</md:content-id>
+  <md:title>Sampling and Data: Data</md:title>
+  <md:abstract>This module introduces the concepts of qualitative data, quantitative continuous data, and quantitative discrete data as used in statistics.  Sample problems are included.</md:abstract>
+  <md:uuid>5e48a4af-82c0-4810-beed-2c254431574b</md:uuid>
+</metadata>
+
+<content>
+    
+
+      <para id="id7862377">Data may come from a population or from a sample. Small letters like <m:math>
+		<m:mi>x</m:mi>
+</m:math> or <m:math>
+		<m:mi>y</m:mi>
+	</m:math> generally are used to represent data values. Most data can be put into the following categories:  </para>
+      <list id="id10607985" list-type="bulleted"><item>
+          Qualitative (Categorical)
+        </item>
+        <item>Quantitative (Numerical) </item>
+      </list><para id="id9602938"><term target-id="qual">Qualitative data</term> are the result of categorizing or describing attributes of a population. Hair color, blood type, ethnic group, the car a person drives, and the street a person lives on are examples of qualitative data. Qualitative data are generally described by words or letters. For instance, hair color might be black, dark brown, light brown, blonde, gray, or red. Blood type might be AB+, O-, or B+. Researchers often prefer to use quantitative data over qualitative data because it lends itself more easily to mathematical analysis. For example, it does not make sense to find an average hair color or blood type.</para><para id="id3365343"><term target-id="quant">Quantitative data</term> are always numbers. Quantitative data are the result of <emphasis>counting</emphasis> or <emphasis>measuring</emphasis> attributes of a population. Amount of money, pulse rate, weight, number of people living in your town, and the number of students who take statistics are examples of quantitative data. Quantitative data may be either <term target-id="discrrv">discrete</term> or <term target-id="continrv">continuous</term>.</para><para id="id9750754">All data that are the result of counting are called <emphasis>quantitative discrete data</emphasis>. These data take on only certain numerical values. If you count the number of phone calls you receive for each day of the week, you might get 0, 1, 2, 3, etc. If you and your friends carry backpacks with books in them to school, the numbers of books in the backpacks are discrete data and the weights of the backpacks are continuous data.</para><para id="id5023881">All data that are the result of measuring are <emphasis>quantitative continuous data</emphasis> assuming that we can measure accurately. Measuring the distance (in miles) that students live from campus could lead to times such as 7, 8.03, 0.5, 3.44, and 1.346.  Note that there are not certain values that the value has to take on.  This is a continuous variable.</para><note id="eip-464">In this course, the data used is mainly quantitative.  It is easy to calculate statistics (like the mean or proportion) from numbers. In the chapter <emphasis>Descriptive Statistics</emphasis>, you will be introduced to stem plots, histograms and box plots all of which display quantitative data.   Qualitative data is discussed at the end of this section through graphs.</note><example id="onetwo"><title>Data Sample of Quantitative Discrete Data</title><para id="id3406867">Let's go back to the book bag example mentioned before. The data are the number of books students carry in their backpacks. You sample five students. Two students carry 3 books, one student carries 4 books, one student carries 2 books, and one student carries 1 book. The numbers of books (3, 4, 2, and 1) are the quantitative discrete data.</para></example>
+     <example id="onethree"><title>Data Sample of Quantitative Continuous Data</title><para id="id3944554">The data are the weights of the backpacks with the books in it. You sample the same five students. The weights (in pounds) of their backpacks are 6.2, 7, 6.8, 9.1, 4.3. Notice that backpacks carrying three books can have different weights. Weights are quantitative continuous data because weights are measured.</para>
+     </example>
+     <example id="onefour"><title>Data Sample of Qualitative Data</title><para id="id11979238">The data are the colors of backpacks. Again, you sample the same five students. One student has a red backpack, two students have black backpacks, one student has a green backpack, and one student has a gray backpack. The colors red, black, black, green, and gray are qualitative data. </para>
+</example>
+      
+<note id="id14887994">You may collect data as numbers and report it categorically. For example, the quiz scores for each student are recorded throughout the term. At the end of the term, the quiz scores are reported as A, B, C, D, or F.</note><example id="element-783"><exercise id="element-652"><problem id="id14888019">
+		<para id="element-318">Work collaboratively to determine the correct data type (quantitative or qualitative). Indicate whether quantitative data are continuous or discrete. Hint: Data that are discrete often start with the words "the number of."</para><list id="element-861" list-type="enumerated"><item>The number of pairs of shoes you own.</item>
+        <item>The type of car you drive. </item>
+        <item>Where you go on vacation.</item>
+        <item>The distance it is from your home to the nearest grocery store. </item>
+        <item>The number of classes you take per school year.</item>
+        <item>The tuition for your classes</item>
+        <item>The type of calculator you use. </item>
+        <item>Movie ratings.</item>
+        <item>Political party preferences.</item>
+        <item>Weight of sumo wrestlers.</item>
+        <item>Amount of money won playing poker.</item>
+        <item>Number of correct answers on a quiz.</item>
+        <item>Peoples' attitudes toward the government.</item>
+        <item>IQ scores. (This may cause some discussion.)</item>
+      </list></problem>
+<solution id="id14523850" print-placement="end">
+<para id="exercise-solutions-1">
+Items 1, 5, 11, and 12 are quantitative discrete; items 4, 6, 10, and 14 are quantitative continuous; and items 2, 3, 7, 8, 9, and 13 are qualitative.
+</para>
+</solution>
+</exercise></example><para id="eip-151"><title>Qualitative Data Discussion</title>Below are tables of part-time vs full-time students at De Anza College in Cupertino, CA and Foothill College in Los Altos, CA for the Spring 2010 quarter. The tables display counts (frequencies) and percentages or proportions (relative frequencies).  The percent columns make comparing the same categories in the colleges easier.  Displaying percentages along with the numbers is often helpful, but it is particularly important when comparing sets of data that do not have the same totals, such as the total enrollments for both colleges in this example.  Notice how much larger the percentage for part-time students at Foothill College is compared to De Anza College.</para><table id="eip-513" summary="This table shows counts (frequencies) and percentages or proportions (relative frequencies) of full-time and part-time students of De Anza College for the Spring 2010 quarter."><title>De Anza College</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis/></entry>
+    <entry>Number</entry>
+    <entry>Percent</entry>
+  </row>
+  <row>
+    <entry>Full-time</entry>
+    <entry>9,200</entry>
+    <entry>40.9%</entry>
+  </row>
+  <row>
+    <entry>Part-time</entry>
+    <entry>13,296</entry>
+    <entry>59.1%</entry>
+  </row>
+  <row>
+    <entry>Total</entry>
+    <entry>22,496</entry>
+    <entry>100%</entry>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table><table id="eip-18" summary="This table shows counts (frequencies) and percentages or proportions (relative frequencies) of full-time and part-time students of Foothill College for the Spring 2010 quarter."><title>Foothill College</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis/></entry>
+    <entry>Number</entry>
+    <entry>Percent</entry>
+  </row>
+  <row>
+    <entry>Full-time</entry>
+    <entry>4,059</entry>
+    <entry>28.6%</entry>
+  </row>
+  <row>
+    <entry>Part-time</entry>
+    <entry>10,124</entry>
+    <entry>71.4%</entry>
+  </row>
+  <row>
+    <entry>Total</entry>
+    <entry>14,183</entry>
+    <entry>100%</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+</tgroup>
+</table><para id="eip-854">Tables are a good way of organizing and displaying data.  But graphs can be even more helpful in understanding the data. There are no strict rules concerning what graphs to use.  Below are pie charts and bar graphs, two graphs that are used to display qualitative data. 
+<newline/><newline/>
+In a <emphasis>pie chart</emphasis>, categories of data are represented by wedges in the circle and are proportional in size to the percent of individuals in each category.
+<newline/><newline/>
+In a <emphasis>bar graph</emphasis>, the length of the bar for each category is proportional to the number or percent of individuals in each category.  Bars may be vertical or horizontal. 
+<newline/><newline/>
+A <emphasis>Pareto chart</emphasis> consists of bars that are sorted into order by category size (largest to smallest).
+<newline/><newline/>
+Look at the graphs and determine which graph (pie or bar) you think displays the comparisons better.  This is a matter of preference.
+<newline/><newline/>
+
+It is a good idea to look at a variety of graphs to see which is the most helpful in displaying the data.  We might make different choices of what we think is the "best" graph depending on the data and the context.  Our choice also depends on what we are using the data for.
+
+
+</para><table id="eip-953" summary="Two pie charts that showing display part-time and full-time percentages for De Anza College and Foothill College students.">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><media id="pie_chart_deanza_2" alt="A pie chart showing percentages of part-time and full-time students at De Anza College.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pie_DA_1.png"/>
+		 
+</media>
+</entry>
+    <entry><media id="pie_chart_foothill_1" alt="A pie chart showing percentages of part-time and full-time students at De Anza College.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pie_F_1.png"/>
+		 
+</media></entry> 
+  </row>
+ 
+</tbody>
+
+
+
+</tgroup>
+</table><table id="eip-984" summary="Two pie charts that showing display part-time and full-time percentages for De Anza College and Foothill College students">
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="bar_graph_D_F_1" alt="A pie chart showing percentages of part-time and full-time students at De Anza College.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_bar_DA_F.png"/>
+		 
+</media></entry>
+    </row>
+  
+   
+</tbody>
+
+
+</tgroup>
+</table><para id="eip-590"><title>Percentages That Add to More (or Less) Than 100%</title>Sometimes percentages add up to be more than 100% (or less than 100%). In the graph, the percentages add to more than 100% because students can be in more than one category.  A bar graph is appropriate to compare the relative size of the categories.  A pie chart cannot be used.  It also could not be used if the percentages added to less than 100%.
+
+</para><table id="eip-29" summary="The table consists of student categories and percentages. The categories are full-time student, students who intend to transfer and students under age 25. The percentages are 61.0, 48.6, 40.9 respectively. The last row consists TOTAL and 150.5% which is the total of four categories."><title>De Anza College Spring 2010</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Characteristic/Category</entry>
+    <entry>Percent</entry>
+  </row>
+  <row>
+    <entry>Full-time Students</entry>
+    <entry>40.9%</entry>
+  </row>
+  <row>
+    <entry>Students who intend to transfer to a 4-year educational institution</entry>
+    <entry>48.6%</entry>
+  </row>
+  <row>
+    <entry>Students under age 25</entry>
+    <entry>61.0%</entry>
+  </row>
+  <row>
+    <entry>TOTAL</entry>
+    <entry>150.5%</entry>
+  </row>
+  
+</tbody>
+
+
+</tgroup>
+</table><table id="eip-696" summary="The graph has horizontal bars with percentages. The categories are full-time students, students who intend to transfer, students under age 25 and all students. Each bar represents a percentage: 61.0, 48.6, 40.9, 100.0 respectively.">
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="pareto_graph_DA_2" alt="A pareto chart showing percentages of full-time students, students who intend to transfer, students under age 25 and all students at De Anza College.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pareto_DA_1.png"/>
+		 
+</media></entry>
+  </row>    
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="eip-33"><title>Omitting Categories/Missing Data</title>The table displays Ethnicity of Students but is missing the "Other/Unknown" category.  This category contains people who did not feel they fit into any of the ethnicity categories or declined to respond.  Notice that the frequencies do not add up to the total number of students. Create a bar graph and not a pie chart. </para><table id="eip-14" summary="The table contains ethnic groups (Asian, Black, Filipino, Hispanic, Native American, Pacific Islander, and White) and the percentages from De Anza College Fall 2007. The percentages are 36.1, 5.8, 5.3, 17.1, 0.6, 1.0, 24.5 respectively. The Other_Unknown category is excluded."><title>Missing Data: Ethnicity of Students De Anza College Fall Term 2007 (Census Day)</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry/>
+    <entry>Frequency</entry>
+    <entry>Percent</entry>
+  </row>
+  <row>
+    <entry>Asian</entry>
+    <entry>8,794</entry>
+    <entry>36.1%</entry>
+  </row>
+  <row>
+    <entry>Black</entry>
+    <entry>1,412</entry>
+    <entry>5.8%</entry>
+  </row>
+  <row>
+    <entry>Filipino</entry>
+    <entry>1,298</entry>
+    <entry>5.3%</entry>
+  </row>
+  <row>
+    <entry>Hispanic</entry>
+    <entry>4,180</entry>
+    <entry>17.1%</entry>
+  </row>
+  <row>
+    <entry>Native American</entry>
+    <entry>146</entry>
+    <entry>0.6%</entry>
+  </row>
+  <row>
+    <entry>Pacific Islander</entry>
+    <entry>236</entry>
+    <entry>1.0%</entry>
+  </row>
+  <row>
+    <entry>White</entry>
+    <entry>5,978</entry>
+    <entry>24.5%</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>TOTAL</entry>
+    <entry>22,044 out of 24,382</entry>
+    <entry>90.4% out of 100%</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><table id="eip-560" summary="Bar graph of the previous table. It excludes the Other_Unknown category."><title>Bar graph Without Other/Unknown Category</title>
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="bar_missing_data" alt="Bar graph showing ethnicity data without the Other/Unknown category.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_bar_missing data.png"/>
+		 
+</media></entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-462">The following graph is the same as the previous graph but the "Other/Unknown" percent (9.6%) has been added back in.  The "Other/Unknown" category is large compared to some of the other categories (Native American, 0.6%, Pacific Islander 1.0% particularly).  This is important to know when we think about what the data are telling us.
+<newline/><newline/>
+This particular bar graph can be hard to understand visually.  The graph below it is a Pareto chart.  The Pareto chart has the bars sorted from largest to smallest and is easier to read and interpret. </para><table id="eip-860" summary="Displayed is a bar graph with the same ethnicity data as in the previous graph with the Other_Unknown category added (9.6%)."><title>Bar Graph With Other/Unknown Category</title>
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="bar_graph_ethnicity_1" alt="Bar graph showing ethnicity data with Other_Unknown category.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_bar_unknown.png"/>
+		 
+</media></entry>
+   </row>
+</tbody>
+
+
+</tgroup>
+</table><table id="eip-615" summary="Displayed is a pareto chart in which the bars are sorted by size. Excludes the Other_Unknown category."><title>Pareto Chart With Bars Sorted By Size</title>
+<tgroup cols="1"><tbody>
+  <row>
+     <entry><media id="Pareto_unknown_ethnicity_2" alt="Pareto chart showing ethnicity data.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pareto_ethnicity.png"/>
+		 
+</media></entry>
+  </row>
+</tbody>
+  
+
+
+</tgroup>
+</table><para id="eip-687"><title>Pie Charts:  No Missing Data</title>The following pie charts have the "Other/Unknown" category added back in (since the percentages must add to 100%).  The chart on the right is organized having the wedges by size and makes for a more visually informative graph than the unsorted, alphabetical graph on the left.</para><table id="eip-107" summary="Two pie charts that display the ethnicity data. The first graph has the wedges in alphabetical order and the second graph has the wedges from largest to smallest.">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><media id="pie_chart_ethnicity_1" alt="Pie chart showing ethnicity alphabetically.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pie_ethnicity_1.png"/>
+		 
+</media></entry>
+    <entry><media id="pie_chart_ethnicity_2" alt="Pie chart showing ethnicity from largest to smallest.">
+	   
+  <image mime-type="image/png" src="../../media/desc_stats_pie_ethnicity_2.png"/>
+		 
+</media></entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table></content>
+
+<glossary>
+
+<definition id="continrv">
+    <term>Continuous Random Variable</term>
+    <meaning id="id20531650">
+     A random variable (RV) whose outcomes are measured.
+    </meaning>
+<example id="contrvex"> <para id="contrvpara">The height of trees in the forest is a continuous RV.</para></example>
+  </definition>
+
+
+   <definition id="data">
+    <term>Data</term>
+    <meaning id="id15539900">
+      A set of observations (a set of possible outcomes). Most data can be put into two groups: <emphasis>qualitative</emphasis> (hair color, ethnic groups and other <emphasis>attributes</emphasis> of the population) and <emphasis>quantitative</emphasis> (distance traveled to college, number of children in a family, etc.). Quantitative data can be separated into two subgroups: <emphasis>discrete</emphasis> and <emphasis>continuous</emphasis>. Data is discrete if it is the result of counting (the number of students of a given ethnic group in a class, the number of books on a shelf, etc.).  Data is continuous if it is the result of measuring (distance traveled, weight of luggage, etc.)
+    </meaning>
+  </definition>
+
+
+
+<definition id="discrrv">
+    <term>Discrete Random Variable</term>
+    <meaning id="id18678019">
+ A random variable (RV) whose outcomes are counted. 
+  </meaning>
+  </definition>
+
+
+
+<definition id="qual">
+    <term>Qualitative Data</term>
+    <meaning id="id14429967">
+
+    See <term target-id="data">Data</term>.
+    </meaning>
+  </definition>
+
+
+<definition id="quant">
+    <term>Quantitative Data</term>
+    <meaning id="id14429999">
+See <term target-id="data">Data</term>.
+    </meaning>
+  </definition>
+
+
+</glossary>
+
+</document>

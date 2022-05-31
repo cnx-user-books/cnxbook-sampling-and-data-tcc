@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="practice">
+  <title>Sampling and Data: Practice</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65176</md:content-id>
+  <md:title>Sampling and Data: Practice</md:title>
+  <md:abstract>This module provides an opportunity for students to practice concepts related to statistical sampling and data.  Given a sample data set, the student will practice constructing frequency tables, differentiating between key terms, and comparing sampling techniques.</md:abstract>
+  <md:uuid>51a1b1e9-e24d-43e9-8cf0-3a01f8665be2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="m16016_Practice_download.pdf" strength="3">Download handout (.pdf)</link>
+      <link url="m16016_Practice_download.doc" strength="3">Download handout (.doc)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+
+ 
+
+        <section id="element-634"><title>Student Learning Outcomes</title>
+<list id="id6060503" list-type="bulleted"><item>The student will differentiate between key terms.</item>
+          <item>The student will compare sampling techniques.</item>
+        </list>
+ </section>
+      <section id="id-675245136435">
+        <title>Given</title>
+        <para id="id6060529">Studies are often done by pharmaceutical companies to determine the effectiveness of a treatment program. Suppose that a new AIDS antibody drug is currently under study. It is given to patients once the AIDS symptoms have revealed themselves. Of interest is the average length of time in months patients live once starting the treatment. Two researchers each follow a different set of 40 AIDS patients from the start of treatment until their deaths. The following data (in months) are collected.</para>
+        <para id="element-388"><list id="set-element-743" list-type="labeled-item" display="inline"><title>Researcher 1</title><item>3</item>
+<item>4</item>
+<item>11</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>22</item>
+<item>44</item>
+<item>37</item>
+<item>16</item>
+<item>14</item>
+<item>24</item>
+<item>25</item>
+<item>15</item>
+<item>26</item>
+<item>27</item>
+<item>33</item>
+<item>29</item>
+<item>35</item>
+<item>44</item>
+<item>13</item>
+<item>21</item>
+<item>22</item>
+<item>10</item>
+<item>12</item>
+<item>8</item>
+<item>40</item>
+<item>32</item>
+<item>26</item>
+<item>27</item>
+<item>31</item>
+<item>34</item>
+<item>29</item>
+<item>17</item>
+<item>8</item>
+<item>24</item>
+<item>18</item>
+<item>47</item>
+<item>33</item>
+<item>34</item>
+</list></para><para id="element-792"><list id="set-element-556" list-type="labeled-item" display="inline"><title>Researcher 2</title><item>3</item>
+<item>14</item>
+<item>11</item>
+<item>5</item>
+<item>16</item>
+<item>17</item>
+<item>28</item>
+<item>41</item>
+<item>31</item>
+<item>18</item>
+<item>14</item>
+<item>14</item>
+<item>26</item>
+<item>25</item>
+<item>21</item>
+<item>22</item>
+<item>31</item>
+<item>2</item>
+<item>35</item>
+<item>44</item>
+<item>23</item>
+<item>21</item>
+<item>21</item>
+<item>16</item>
+<item>12</item>
+<item>18</item>
+<item>41</item>
+<item>22</item>
+<item>16</item>
+<item>25</item>
+<item>33</item>
+<item>34</item>
+<item>29</item>
+<item>13</item>
+<item>18</item>
+<item>24</item>
+<item>23</item>
+<item>42</item>
+<item>33</item>
+<item>29</item>
+</list></para>
+      </section>
+
+
+      <section id="id-257214317573">
+        
+        <para id="id6060582"/>
+        
+        
+      </section>
+
+
+
+      <section id="id-235615853556"><title>Key Terms</title>
+
+        <para id="id606052900">Define the key terms based upon the above example for Researcher 1.</para>
+
+          <exercise id="exerciseone">
+<problem id="id14666923">
+<para id="prob_1">Population</para>
+</problem>
+</exercise>
+          <exercise id="exercisetwo">
+<problem id="id14666952">
+<para id="prob_2">Sample</para>
+</problem>
+</exercise>
+          <exercise id="exercisethree">
+<problem id="id14666982">
+<para id="prob_3">Parameter</para>
+</problem>
+</exercise>
+          <exercise id="exercisefour">
+<problem id="id14667012">
+<para id="prob_4">Statistic</para>
+</problem>
+</exercise>
+          <exercise id="exercisefive">
+<problem id="id14667042">
+<para id="prob_5">Variable</para>
+</problem>
+</exercise>
+          <exercise id="exercisesix">
+<problem id="id14667071">
+<para id="prob_6">Data</para>
+</problem>
+</exercise>
+
+      </section>
+
+      <section id="id-448369511773"><title>Discussion Questions</title>
+
+        <para id="id606052901">Discuss the following questions and then answer in complete sentences.</para>
+        
+          <exercise id="exerciseseven">
+<problem id="id14670683">
+<para id="prob_7">List two reasons why the data may differ.</para></problem></exercise>
+          <exercise id="exerciseeight">
+<problem id="id14670710">
+<para id="prob_8">Can you tell if one researcher is correct and the other one is incorrect? Why?</para></problem></exercise>
+          <exercise id="exercisenine">
+<problem id="id14670739">
+<para id="prob_9">Would you expect the data to be identical? Why or why not?</para></problem></exercise>
+          <exercise id="exerciseten">
+<problem id="id14670767">
+<para id="prob_10">How could the researchers gather random data?</para></problem></exercise>
+
+
+
+          <exercise id="exerciseeleven">
+<problem id="id14670795">
+<para id="prob_11">Suppose that the first researcher conducted his survey by randomly choosing one state in the nation and then randomly picking 40 patients from that state. What sampling method would that researcher have used?</para></problem></exercise>
+          <exercise id="exercisetwelve">
+<problem id="id14670826">
+<para id="prob_12">Suppose that the second researcher conducted his survey by choosing 40 patients he knew. What sampling method would that researcher have used? What concerns would you have about this data set, based upon the data collection method?</para></problem></exercise><exercise id="eip-94"><title>Exercise 13</title><problem id="eip-32">
+  <para id="eip-180">
+    What type of data is being collected?
+  </para>
+</problem>
+
+
+</exercise>
+        
+      </section>
+  </content>
+</document>

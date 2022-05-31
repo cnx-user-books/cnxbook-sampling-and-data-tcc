@@ -1,0 +1,347 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="homework">
+  <title>Sampling and Data: Homework</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65180</md:content-id>
+  <md:title>Sampling and Data: Homework</md:title>
+  <md:abstract>This module presents students with a number of problems related to statistical sampling and data.  In particular, students are asked to demonstrate understanding of concepts such as frequency, relative frequency, and cumulative relative frequency, random samples, quantitative vs. qualitative data, continuous vs. discrete data, and other key terms related to sampling and data.</md:abstract>
+  <md:uuid>b3f18117-473b-4f52-b143-be8e263313b7</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="m16010_Homework_download.doc" strength="3">Download handout (.doc)</link>
+      <link url="m16010_Homework_download.pdf" strength="3">Download handout (.pdf)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+      <exercise id="element-842"><problem id="id30102618">
+		<para id="element-526">For each item below:</para><list id="element-653" list-type="labeled-item" mark-suffix="."><item><label>i</label>Identify the type of data (quantitative - discrete, quantitative - continuous, or qualitative) that would be used to describe a response. 
+</item>
+<item><label>ii</label>Give an example of the data.
+		</item></list><list id="element-446" list-type="labeled-item" mark-suffix="."><item><label>a</label>Number of tickets sold to a concert</item>
+<item><label>b</label>Amount of body fat</item>
+<item><label>c</label>Favorite baseball team</item>
+<item><label>d</label>Time in line to buy groceries</item>
+<item><label>e</label>Number of students enrolled at Evergreen Valley College</item>
+<item><label>f</label>Most–watched television show</item>
+<item><label>g</label>Brand of toothpaste</item>
+<item><label>h</label>Distance to the closest movie theatre</item>
+<item><label>i</label>Age of executives in Fortune 500 companies</item>
+<item><label>j</label>Number of competing computer spreadsheet software packages</item>
+</list>
+
+
+        
+	</problem>
+
+	
+<solution id="id30387347">
+<list id="element-1275" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>quantitative - discrete</item>
+<item><label>b</label>quantitative - continuous</item>
+<item><label>c</label>qualitative</item>
+<item><label>d</label>quantitative - continuous</item>
+<item><label>e</label>quantitative - discrete</item>
+<item><label>f</label>qualitative</item>
+<item><label>g</label>qualitative</item>
+<item><label>h</label>quantitative - continuous</item>
+<item><label>i</label>quantitative - continuous</item>
+<item><label>j</label>quantitative - discrete</item>
+
+</list>
+</solution></exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="element-188"><problem id="id30125588">
+		<para id="element-424">
+			A fitness center is interested in the average amount of time a client exercises in the center each week. Define the following in terms of the study. Give examples where appropriate.
+		</para><list id="element-737" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+
+</exercise>
+      <exercise id="element-951"><problem id="id30142690">
+		<para id="element-812">Ski resorts are interested in the average age that children take their first ski and snowboard lessons. They need this information to optimally plan their ski classes. Define the following in terms of the study.  Give examples where appropriate.
+		</para><list id="element-714" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+<solution id="id30142809">
+<list id="element-36236" mark-suffix="." list-type="labeled-item"><item><label>a</label>Children who take ski or snowboard lessons</item>
+<item><label>b</label>A group of these children</item>
+<item><label>c</label>The population average</item>
+<item><label>d</label>The sample average</item>
+<item><label>e</label><m:math><m:mi>X</m:mi></m:math> = the age of one child who takes the first ski or snowboard lesson</item>
+<item><label>f</label>A value for <m:math><m:mi>X</m:mi></m:math>, such as 3, 7, etc.</item>
+</list>
+</solution></exercise>
+      
+      
+      <exercise id="element-776"><problem id="id30142935">
+		<para id="element-85">
+			
+A cardiologist is interested in the average recovery period for her patients who have had heart attacks. Define the following in terms of the study. Give examples where appropriate.
+		</para><list id="element-759" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+</exercise>
+      
+      <exercise id="element-54"><problem id="id30143063">
+		<para id="element-530">
+			Insurance companies are interested in the average health costs each year for their clients, so that they can determine the costs of health insurance. Define the following in terms of the study. Give examples where appropriate.
+		</para><list id="element-120" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+<solution id="id30200870">
+<list id="element-362362" mark-suffix="." list-type="labeled-item"><item><label>a</label>The clients of the insurance companies</item>
+<item><label>b</label>A group of the clients</item>
+<item><label>c</label>The average health costs of the clients</item>
+<item><label>d</label>The average health costs of the sample</item>
+<item><label>e</label><m:math><m:mi>X</m:mi></m:math> = the health costs of one client</item>
+<item><label>f</label>A value for <m:math><m:mi>X</m:mi></m:math>, such as 34, 9, 82, etc.</item>
+</list>
+</solution></exercise>
+      
+      <exercise id="element-605"><problem id="id30200997">
+		<para id="element-540">A politician is interested in the proportion of voters in his district that think he is doing a good job. Define the following in terms of the study. Give examples where appropriate.
+		</para><list id="element-522" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+</exercise>
+      
+      <exercise id="element-430"><problem id="id30201124">
+		<para id="element-145">A marriage counselor is interested in the proportion the clients she counsels that stay married. Define the following in terms of the study. Give examples where appropriate.
+		</para><list id="element-591" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+<solution id="id30201242">
+<list id="element-362363" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>All the clients of the counselor</item>
+<item><label>b</label>A group of the clients</item>
+<item><label>c</label>The proportion of all her clients who stay married</item>
+<item><label>d</label>The proportion of the sample who stay married</item>
+<item><label>e</label><m:math><m:mi>X</m:mi></m:math> = the number of couples who stay married</item>
+<item><label>f</label>yes, no</item>
+</list>
+</solution></exercise>
+      
+      <exercise id="element-417"><problem id="id30201364">
+		<para id="element-150">Political pollsters may be interested in the proportion of people that will vote for a particular cause. Define the following in terms of the study. Give examples where appropriate.
+		
+		</para><list id="element-989" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+</exercise>
+      
+      <exercise id="element-467"><problem id="id30201491">
+		<para id="element-404">A marketing company is interested in the proportion of people that will buy a particular product.  Define the following in terms of the study.  Give examples where appropriate.
+		</para><list id="element-742" list-type="labeled-item" mark-suffix="."><item><label>a</label>Population</item>
+	<item><label>b</label>Sample</item>
+	<item><label>c</label>Parameter</item>
+<item><label>d</label>Statistic</item>
+<item><label>e</label>Variable</item>
+<item><label>f</label>Data</item></list>
+	</problem>
+<solution id="id30201609">
+<list id="element-362356" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>All people (maybe in a certain geographic area, such as the United States)</item>
+<item><label>b</label>A group of the people</item>
+<item><label>c</label>The proportion of all people who will buy the product</item>
+<item><label>d</label>The proportion of the sample who will buy the product</item>
+<item><label>e</label><m:math><m:mi>X</m:mi></m:math> = the number of people who will buy it</item>
+<item><label>f</label>buy, not buy</item>
+</list>
+</solution></exercise>
+      
+      <exercise id="element-774"><problem id="id30201732">
+		<para id="element-563">Airline companies are interested in the consistency of the number of babies on each flight, so that they have adequate safety equipment. Suppose an airline conducts a survey. Over Thanksgiving weekend, it surveys 6 flights from Boston to Salt Lake City to determine the number of babies on the flights. It determines the amount of safety equipment needed by the result of that study.
+		</para><list id="element-797" list-type="labeled-item" mark-suffix="."><item><label>a</label>Using complete sentences, list three things wrong with the way the survey was conducted.</item>
+<item><label>b</label>Using complete sentences, list three ways that you would improve the survey if it were to be repeated.</item>
+      </list>
+	</problem>
+</exercise>
+      
+      <exercise id="element-746"><problem id="id30201811">
+		<para id="element-881">
+			
+Suppose you want to determine the average number of students per statistics class in your state. Describe a possible sampling method in 3 – 5 complete sentences. Make the description detailed.
+		</para>
+	</problem></exercise>
+      <exercise id="element-615"><problem id="id30201846">
+		<para id="element-176">Suppose you want to determine the average number of cans of soda drunk each month by persons in their twenties. Describe a possible sampling method in 3 - 5 complete sentences. Make the description detailed.
+		</para>
+	</problem>
+</exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="element-579"><problem id="id30103442">
+		<para id="element-143">A “random survey” was conducted of 3274 people of the “microprocessor generation” (people born since 1971, the year the microprocessor was invented). It was reported that 48% of those individuals surveyed stated that if they had $2000 to spend, they would use it for computer equipment. Also, 66% of those surveyed considered themselves relatively savvy computer users. (<cite><cite-title>Source: San Jose Mercury News</cite-title></cite>)
+		</para><list id="element-411" list-type="labeled-item" mark-suffix="."><item><label>a</label>Do you consider the sample size large enough for a study of this type? Why or why not?</item>
+        <item><label>b</label>Based on your “gut feeling,” do you believe the percents accurately reflect the U.S. population for those individuals born since 1971? If not, do you think the percents of the population are actually higher or lower than the sample statistics? Why?</item>
+      </list><para id="element-355">Additional information: The survey was reported by Intel Corporation of individuals who visited the Los Angeles Convention Center to see the Smithsonian Institure's road show called “America’s Smithsonian.”</para><list id="element-863" list-type="labeled-item" mark-suffix="."><item><label>c</label>With this additional information, do you feel that all demographic and ethnic groups were equally represented at the event? Why or why not?</item>
+        <item><label>d</label>With the additional information, comment on how accurately you think the sample statistics reflect the population parameters.</item>
+      </list>
+	</problem></exercise>
+      
+      
+      <exercise id="element-848"><problem id="id30103600">
+		<list id="element-854" list-type="labeled-item" mark-suffix="."><item><label>a</label>List some practical difficulties involved in getting accurate results from a telephone survey.</item>
+        <item><label>b</label>List some practical difficulties involved in getting accurate results from a mailed survey.</item>
+        <item><label>c</label>With your classmates, brainstorm some ways to overcome these problems if you needed to conduct a phone or mail survey.</item>
+      </list>
+	</problem></exercise>
+<section id="id30103668"><title>Try these multiple choice questions</title>
+
+      <para id="id10771715"><emphasis>The next four questions refer to the following:</emphasis> A Lake Tahoe Community College instructor is interested in the average number of days Lake Tahoe Community College math students are absent from class during a quarter.</para>
+      
+      <exercise id="element-230"><problem id="id30103712">
+		<para id="element-792">What is the population she is interested in?
+		</para><list id="element-978" list-type="labeled-item" mark-suffix="."><item><label>A</label>All Lake Tahoe Community College students</item>
+        <item><label>B</label>All Lake Tahoe Community College English students</item>
+        <item><label>C</label>All Lake Tahoe Community College students in her classes</item>
+        <item><label>D</label>All Lake Tahoe Community College math students</item>
+      </list>
+	</problem>
+<solution id="id30103802">
+<para id="element-356234">D</para>
+</solution></exercise>
+      
+      <exercise id="element-590"><problem id="id30103831">
+		<para id="element-311">Consider the following:
+
+		</para><para id="element-131"><emphasis><m:math>
+  <m:mi>X</m:mi>
+</m:math> = number of days a Lake Tahoe Community College math student is absent</emphasis></para><para id="element-561">In this case, <m:math><m:mi>X</m:mi></m:math> is an example of a:</para><list id="element-959" list-type="labeled-item" mark-suffix="."><item><label>A</label>Variable</item>
+	<item><label>B</label>Population</item>
+	<item><label>C</label>Statistic</item>
+	<item><label>D</label>Data</item></list>
+	</problem>
+<solution id="id30103955">
+<para id="element-35634">A</para>
+</solution></exercise>
+      
+      <exercise id="element-342"><problem id="id30103983">
+		<para id="element-27">
+			The instructor takes her sample by gathering data on 5 randomly selected students from each Lake Tahoe Community College math class. The type of sampling she used is
+		</para><list id="element-492" list-type="labeled-item" mark-suffix="."><item><label>A</label>Cluster sampling</item>
+	<item><label>B</label>Stratified sampling</item>
+	<item><label>C</label>Simple random sampling</item>
+	<item><label>D</label>Convenience sampling</item></list>
+	</problem>
+<solution id="id30104073">
+<para id="element-356234e">B</para>
+</solution></exercise>
+      
+      <exercise id="element-992"><problem id="id30104101">
+		<para id="element-827">
+			The instructor’s sample produces an average number of days absent of 3.5 days. This value is an example of a
+		</para><list id="element-303" list-type="labeled-item" mark-suffix="."><item><label>A</label>Parameter</item>
+	<item><label>B</label>Data</item>
+	<item><label>C</label>Statistic</item>
+	<item><label>D</label>Variable</item></list>
+	</problem>
+<solution id="id30104192">
+<para id="element-3562324">C</para>
+</solution></exercise>
+      
+      
+      
+      
+      
+      
+      
+      <para id="id8315610"><emphasis>The next three questions refer to the following:</emphasis> A study was done to determine the age, number of times per week and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed. </para>
+      
+      <exercise id="element-636"><problem id="id30104871">
+		<para id="element-253">
+			<quote display="inline" id="id30104887">‘Number of times per week’</quote> is what type of data?
+		</para><list id="element-661" list-type="labeled-item" mark-suffix="."><item><label>A</label>qualitative</item>
+	<item><label>B</label>quantitative - discrete</item>
+	<item><label>C</label>quantitative - continuous</item></list>
+	</problem>
+<solution id="id30104952">
+<para id="element-3234">B</para>
+</solution></exercise>
+      
+      
+      <exercise id="element-356"><problem id="id30104980">
+		<para id="element-521">The sampling method was:
+		</para><list id="element-503" list-type="labeled-item" mark-suffix="."><item><label>A</label>simple random</item>
+	<item><label>B</label>systematic</item>
+	<item><label>C</label>stratified</item>
+<item><label>D</label>cluster</item></list>
+	</problem>
+<solution id="id30105067">
+<para id="element-3114">B</para>
+</solution></exercise>
+      
+      
+      <exercise id="element-365"><problem id="id30105094">
+		<para id="element-297"><quote display="inline" id="id30105110">‘Duration (amount of time)’</quote> is what type of data?
+		</para><list id="element-97" list-type="labeled-item" mark-suffix="."><item><label>A</label>qualitative</item>
+<item><label>B</label>quantitative - discrete</item>
+	<item><label>C</label>quantitative - continuous</item></list>
+	</problem>
+
+	<solution id="id30105175">
+<para id="element-31234">C</para>
+</solution></exercise>
+</section>
+  </content>
+</document>

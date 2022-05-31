@@ -1,0 +1,98 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Sampling and Data: Key Terms</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65193</md:content-id>
+  <md:title>Sampling and Data: Key Terms</md:title>
+  <md:abstract>This module introduces a number of key terms related to statistical sampling and data.</md:abstract>
+  <md:uuid>8ba866b9-f1f9-4b35-b218-4677cb0e9f64</md:uuid>
+</metadata>
+
+<content>
+    
+      <para id="id5292816">In statistics, we generally want to study a <term target-id="population">population</term>. You can think of a population as an entire collection of persons, things, or objects under study. To study the larger population, we select a <term target-id="sample">sample</term>. The idea of <term target-id="sampling">sampling</term> is to select a portion (or subset) of the larger population and study that portion (the sample) to gain information about the population. Data are the result of sampling from a population. </para>
+      <para id="id7388953">Because it takes a lot of time and money to examine an entire population, sampling is a very practical technique. If you wished to compute the overall grade point average at your school, it would make sense to select a sample of students who attend the school. The data collected from the sample would be the students' grade point averages. In presidential elections, opinion poll samples of 1,000 to 2,000 people are taken. The opinion poll is supposed to represent the views of the people in the entire country. Manufacturers of canned carbonated drinks take samples to determine if a 16 ounce can contains 16 ounces of carbonated drink. </para>
+      <para id="id7388957">From the sample data, we can calculate a statistic. A <term target-id="stat">statistic</term> is a number that is a property of the sample. For example, if we consider one math class to be a sample of the population of all math classes, then the average number of points earned by students in that one math class at the end of the term is an example of a statistic. The statistic is an estimate of a population parameter. A <term target-id="paremeter">parameter</term> is a number that is a property of the population. Since we considered all math classes to be the population, then the average number of points earned per student over all the math classes is an example of a parameter. </para>
+      <para id="id8573803">One of the main concerns in the field of statistics is how accurately a statistic estimates a parameter. The accuracy really depends on how well the sample represents the population. The sample must contain the characteristics of the population in order to be a <emphasis>representative sample</emphasis>. We are interested in both the sample statistic and the population parameter in inferential statistics. In later chapters, we will discuss sampling techniques and using the sample statistic to test the validity of the established population parameter.</para><para id="id7362240">A <term target-id="variable">variable</term> is a characteristic of interest for each person or thing in a population. Variables may be <emphasis>numerical</emphasis> or <emphasis>categorical</emphasis>. <emphasis>Numerical variables</emphasis> take on values with equal units such as weight in pounds and time in hours. <emphasis>Categorical variables</emphasis> place the person or thing into a category. If we let <m:math><m:mi>X</m:mi></m:math> equal the number of points earned by one math student at the end of a term, then <m:math><m:mi>X</m:mi></m:math> is a numerical variable. If we let <m:math><m:mi>Y</m:mi></m:math> be a person's party affiliation, then examples of <m:math><m:mi>Y</m:mi></m:math> include Republican, Democrat, and Independent. <m:math><m:mi>Y</m:mi></m:math> is a categorical variable. We could do some math with values of <m:math><m:mi>X</m:mi></m:math> (calculate the average number of points earned, for example), but it makes no sense to do math with values of <m:math><m:mi>Y</m:mi></m:math> (calculating an average party affiliation makes no sense). Numerical variables may be referred to as quantitative variables.  Categorical variables may be referred to as qualitative variables.  </para><para id="id7358097"><term target-id="data">Data</term> are the actual values of the variable. They may be numbers or they may be words. Datum is a single value.</para>
+      <para id="id6052994">Two words that come up often in statistics are <term target-id="mean">mean</term> and <term target-id="proportion">proportion</term>. If you were to take three exams in your math classes and obtained scores of 86, 75, and 92, you calculate your mean score by adding the three exam scores and dividing by three (your mean score would be 84.3 to one decimal place). If, in your math class, there are 40 students and 22 are men and 18 are women, then the proportion of men students is 
+<m:math>
+  <m:mfrac>
+    <m:mn>22</m:mn>
+    <m:mn>40</m:mn>
+  </m:mfrac>
+</m:math> and the proportion of women students is <m:math>
+  <m:mfrac>
+    <m:mn>18</m:mn>
+    <m:mn>40</m:mn>
+  </m:mfrac>
+</m:math>. Mean and proportion are discussed in more detail in later chapters.</para><note id="eip-475"><title>Mean and Average</title>The words "mean" and "average" are often used interchangeably.  The substitution of one word for the other is common practice. The technical term is "arithmetic mean" and "average" is technically a center location.  However, in practice among non-statisticians, "average" is commonly accepted for "arithmetic mean."   </note><example id="element-786">
+<exercise id="element-915"><problem id="id9963330">
+		<para id="element-389">Define the key terms from the following study: We want to know the average (mean) amount of money first year TCC students spend on school supplies that do not include books. We randomly survey 100 first year students at the college.  Three of those students spent $150, $200, and $225, respectively.</para></problem>
+
+	<solution id="id9963362">
+		<para id="element-217">
+			The <emphasis>population</emphasis> is all first year students attending ABC College this term.
+		</para>
+                <para id="id7405647">The <emphasis>sample</emphasis> could be all students enrolled in one section of a beginning statistics course at TCC (although this sample may not represent the entire population).</para><para id="id6054372">The <emphasis>parameter</emphasis> is the average (mean) amount of money spent (excluding books) by first year college students at TCC this term.</para><para id="id8498094">The <emphasis>statistic</emphasis> is the average (mean) amount of money spent (excluding books) by the three first year college students in the sample.</para><para id="id8683448">The <emphasis>variable</emphasis> could be the amount of money spent (excluding books) by one first year student. Let <m:math>
+  <m:mi>X</m:mi>
+</m:math> = the amount of money spent (excluding books) by one first year student attending ABC College.</para>
+                <para id="id8636163">The <emphasis>data</emphasis> are the dollar amounts spent by the first year students. Examples of the data are $150, $200, and $225.</para>
+	</solution>
+</exercise></example>
+
+      <section id="id-62970577576"><title>Optional Collaborative Classroom Exercise</title>
+
+		<para id="element-836">Do the following exercise collaboratively with up to four people per group. Find a population, a sample, the parameter, the statistic, a variable, and data for the following study: You want to determine the average (mean) number of glasses of milk college students drink per day. Suppose yesterday, in your English class, you asked five students how many glasses of milk they drank the day before. The answers were 1, 0, 1, 3, and 4 glasses of milk.
+		</para></section>
+  </content>
+
+
+<glossary>
+
+  <definition id="average">
+    <term>Average</term>
+    <meaning id="id16316921">
+      A number that describes the central tendency of the data. There are a number of specialized averages, including the arithmetic mean, weighted mean, median, mode, and geometric mean.
+    </meaning>
+  </definition>
+
+
+  <definition id="data">
+    <term>Data</term>
+    <meaning id="id15539900">
+      A set of observations (a set of possible outcomes). Most data can be put into two groups: <emphasis>qualitative</emphasis> (hair color, ethnic groups and other <emphasis>attributes</emphasis> of the population) and <emphasis>quantitative</emphasis> (distance traveled to college, number of children in a family, etc.). Quantitative data can be separated into two subgroups: <emphasis>discrete</emphasis> and <emphasis>continuous</emphasis>. Data is discrete if it is the result of counting (the number of students of a given ethnic group in a class, the number of books on a shelf, etc.).  Data is continuous if it is the result of measuring (distance traveled, weight of luggage, etc.)
+    </meaning>
+  </definition>
+
+
+
+<definition id="proportion">
+    <term>Proportion</term>
+    <meaning id="id15701010">
+
+<list id="fs-id14984286">
+<item>As a number: A proportion is the number of successes divided by the total number in the sample.</item>
+<item>As a probability distribution:  Given a binomial random variable (RV), <m:math><m:mi>X</m:mi></m:math> ∼<m:math>  <m:mi>B</m:mi>
+  <m:mfenced>
+    <m:mi>n</m:mi>
+    <m:mi>p</m:mi>
+  </m:mfenced></m:math>, consider the ratio of the number <m:math><m:mi>X</m:mi></m:math> of successes in <m:math><m:mi>n</m:mi></m:math> Bernouli trials to the number <m:math><m:mi>n</m:mi></m:math> of trials.  <m:math><m:mi>P</m:mi>
+  <m:mo>'</m:mo>
+  <m:mo>=</m:mo>
+  <m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mi>n</m:mi>
+  </m:mfrac></m:math>. This new RV is called a proportion, and if the number of trials, <m:math><m:mi>n</m:mi></m:math>, is large enough, <m:math><m:mi>P'</m:mi></m:math> ∼<m:math> <m:mi>N</m:mi>
+  <m:mfenced>
+    <m:mi>p</m:mi>
+    <m:mfrac>
+      <m:mi>pq</m:mi>
+      <m:mi>n</m:mi>
+    </m:mfrac>
+  </m:mfenced></m:math>.</item>
+</list>
+    </meaning>
+  </definition>
+
+</glossary>
+
+</document>

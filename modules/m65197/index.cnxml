@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sampling and Data: Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65197</md:content-id>
+  <md:title>Sampling and Data: Introduction</md:title>
+  <md:abstract>This module provides a brief introduction to the field of statistics, including examples of how these topics shows up in a variety of real-life examples.</md:abstract>
+  <md:uuid>6c5519a0-a48b-4ec1-8206-07e7d211cd87</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m17561/latest/" strength="2">View the Video Lecture for this Chapter</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="element-581"><title>Student Learning Objectives</title><para id="element-para1">By the end of this chapter, the student should be able to:</para>
+<list id="objectives-list" list-type="bulleted"><item>Recognize and differentiate between key terms.</item>
+ <item>Apply various types of sampling methods to data collection.</item>
+ </list></section><section id="element-41"><title>Introduction</title>
+<para id="delete_me">You are probably asking yourself the question, "When and where will I use statistics?".  If you read any newspaper or watch television, or use the Internet, you will see statistical information.  There are statistics about crime, sports, education, politics, and real estate.   Typically, when you read a newspaper article or watch a news program on television, you are given sample information.  With this information, you may make a decision about the correctness of a statement, claim, or "fact."   Statistical methods can help you make the "best educated guess." </para><para id="element-514">Since you will undoubtedly be given statistical information at some point in your life, you need to know some techniques to analyze the information thoughtfully.   Think about buying a house or managing a budget.  Think about your chosen profession.   The fields of economics, business, psychology, education, biology, law, computer science, police science, and early childhood development require at least one course in statistics.</para><para id="element-536">Included in this chapter are the basic ideas and words of probability and statistics.  You will soon understand  that statistics and probability work together.  You will also learn how data are gathered and what "good" data are.</para>  
+</section>
+  </content>
+  
+</document>
