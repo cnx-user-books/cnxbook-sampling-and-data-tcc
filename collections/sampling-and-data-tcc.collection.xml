@@ -1,100 +1,43 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Ross Brooks">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col23580</md:content-id>
-  <md:title>Sampling and Data TCC</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>6dacf489-0937-45de-9693-a7025097eb29</md:uuid>
-<md:slug>sampling-and-data-tcc</md:slug>
-</metadata>
-
+    <md:content-id>col23580</md:content-id>
+    <md:title>Sampling and Data TCC</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>6dacf489-0937-45de-9693-a7025097eb29</md:uuid>
+    <md:slug>sampling-and-data-tcc</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m65197">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m17561/latest/">View the Video Lecture for this Chapter</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m65193"/>
-        
-      
-    
-    
-      <col:module document="m65206"/>
-        
-      
-    
-    
-      <col:module document="m65200"/>
-        
-      
-    
-    
-      <col:module document="m65187"/>
-        
-      
-    
-    
-      <col:module document="m65190"/>
-        
-      
-    
-    
-      <col:module document="m65185"/>
-        
-      
-    
-    
-      <col:module document="m65183"/>
-        
-      
-    
-    
-      <col:module document="m65176">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="m16016_Practice_download.doc">Download handout (.doc)</cnxml:link>
-              <cnxml:link url="m16016_Practice_download.pdf">Download handout (.pdf)</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m65180">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="m16010_Homework_download.pdf">Download handout (.pdf)</cnxml:link>
-              <cnxml:link url="m16010_Homework_download.doc">Download handout (.doc)</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
+    <col:module document="m65197">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m17561/latest/">View the Video Lecture for this Chapter</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m65193"/>
+    <col:module document="m65206"/>
+    <col:module document="m65200"/>
+    <col:module document="m65187"/>
+    <col:module document="m65190"/>
+    <col:module document="m65185"/>
+    <col:module document="m65183"/>
+    <col:module document="m65176">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="m16016_Practice_download.doc">Download handout (.doc)</cnxml:link>
+          <cnxml:link url="m16016_Practice_download.pdf">Download handout (.pdf)</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m65180">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="m16010_Homework_download.pdf">Download handout (.pdf)</cnxml:link>
+          <cnxml:link url="m16010_Homework_download.doc">Download handout (.doc)</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
   </col:content>
 </col:collection>
